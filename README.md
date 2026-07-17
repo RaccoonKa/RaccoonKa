@@ -26,10 +26,6 @@ I'm constantly learning and practicing in different languages:
 
 ---
 
-### 📈 Statistics
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=RaccoonKa&theme=onedark)
----
-
 ### 🤝 Let's be friends!
 
 *   **Telegram:** [@raccoonka](https://t.me/raccoonka)
