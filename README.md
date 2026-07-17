@@ -29,7 +29,7 @@ I'm constantly learning and practicing in different languages:
 ### 🤝 Let's be friends!
 
 *   **Telegram:** [@raccoonka](https://t.me/raccoonka)
-*   **VK:** [Светозар Краучук](https://vk.com/raccoonkich)
+*   **VK:** [Светозар Кравчук](https://vk.com/raccoonkich)
 *   **Steam:** [RaccoonKa](https://steamcommunity.com/id/raccoonka/)
 
 *P.S. I am always glad to see new projects and interesting tasks!*
