@@ -27,8 +27,7 @@ I'm constantly learning and practicing in different languages:
 ---
 
 ### 📈 Statistics
-![Статистика](https://github-readme-stats.vercel.app/api?username=RaccoonKa&show_icons=true&theme=dark)
-
+<img src="https://github-readme-stats.vercel.app/api?username=RaccoonKa&show_icons=true&theme=dark" alt="Статистика" />
 ---
 
 ### 🤝 Let's be friends!
