@@ -1,25 +1,41 @@
 # 🦝 Hi there! I'm Svetozar (RaccoonKa)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F7DF1E&width=500&lines=Applied+Informatics+%26+AI+Student;Turning+complex+algorithms+into+working+tools;Computer+Vision+%26+Speech+Processing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F7DF1E&width=550&lines=Applied+Mathematics+%26+AI+Student;Turning+complex+algorithms+into+working+tools;Computer+Vision%2C+Audio+Processing+%26+Desktop+Apps)](https://git.io/typing-svg)
 
-Applied Mathematics & Computer Science student at **IKBFU**. I build desktop apps, train machine learning models, and create interactive tools with a focus on Computer Vision, NLP/STT, and intuitive desktop GUIs.
-
----
-
-### 🚀 Featured Projects
-
-* 🌟 **[Astra Voice Assistant](https://github.com/RaccoonKa/Astra)** — Autonomous desktop AI assistant with local STT (Vosk), neural TTS (Silero), CV owner verification (FaceID), fatigue tracking, and remote Telegram control via MSI installer.
-* 🃏 **[Velaris](https://github.com/RaccoonKa/Velaris)** — Modular Python card game suite with custom networking multiplayer (Blackjack, Durak, Texas Hold'em) and standalone desktop binaries.
-* 👁️ **Computer Vision & Topography Tools** — Posture landmark tracking (MediaPipe/YOLO) and military topography calculation software.
+Applied Mathematics & Computer Science student at **IKBFU** specializing in Artificial Intelligence and Data Analysis. I design local machine learning pipelines, build desktop applications, and engineer educational simulators and tools for university students.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Featured Projects & Systems
+
+* 🌟 **[Astra Voice Assistant](https://github.com/RaccoonKa/Astra)** — Autonomous offline-first desktop assistant.
+  * Local speech recognition via **Vosk** and neural voice synthesis via **Silero TTS**.
+  * Computer Vision engine featuring **Face ID** owner verification, eye fatigue tracking, and gesture controls.
+  * Integrated remote management via **Telegram Bot** and packaged into an **MSI installer (WiX Toolset)**.
+
+* 🃏 **[Velaris](https://github.com/RaccoonKa/Velaris)** — Modular Python card game ecosystem.
+  * Custom low-latency socket networking for multiplayer sessions (Blackjack, Durak, Texas Hold'em).
+  * Polished desktop GUI architecture with standalone multi-platform distribution binaries.
+
+* 🗺️ **[Military Topography Training Suite](https://github.com/RaccoonKa/Topography)** — University educational software package (`datacwtopograf`, `datalyali`, `datatopograf`).
+  * Designed for practical training and automated knowledge assessment of students in military topography.
+  * Real-time calculation of directional angles, magnetic azimuths, and coordinate transformations (Geographic $\leftrightarrow$ Gauss-Krüger rectangular).
+  * Built using **Delphi / Object Pascal**.
+
+* 🏗️ **[Military Topography Training Framework](https://github.com/RaccoonKa/VUC_framework)** — Modular architectural platform in **C# / .NET**.
+  * Provides standardized templates and event interfaces for developing interactive educational testing simulators.
+  * Unifies calculation logic, UI event pipelines, and student assessment workflows.
+
+* 👁️ **Computer Vision & Pose Analysis Tools** — Real-time posture tracking and landmark extraction using **OpenCV**, **MediaPipe**, **YOLO**, and **PyTorch**.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Object Pascal / Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -28,22 +44,22 @@ Applied Mathematics & Computer Science student at **IKBFU**. I build desktop app
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-007FFF?style=flat-square&logo=google&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Hugging Face Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**GUI, Tools & Packaging:**  
+**Desktop, Tools & Packaging:**  
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-107C41?style=flat-square&logo=python&logoColor=white)
 ![WiX Toolset](https://img.shields.io/badge/WiX_Toolset-C0392B?style=flat-square&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🎓 Academic & Open-Source Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaccoonKa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonKa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</div>
+* **Applied Algorithms:** Creating practical, mathematically verified tools for education and automated grading.
+* **Local Neural Models:** Optimizing speech and computer vision pipelines (STT/TTS/ONNX) to run with minimal latency on consumer hardware.
+* **Clean Architecture:** Designing modular systems with clear separation between core computational algorithms and reactive desktop GUIs.
 
 ---
 
@@ -55,4 +71,4 @@ Applied Mathematics & Computer Science student at **IKBFU**. I build desktop app
   <a href="https://steamcommunity.com/id/raccoonka/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
 
-> *"Turning ideas into clean architecture and working code."* 🐾
+> *"Turning complex algorithms into clean architecture and reliable tools."* 🐾
