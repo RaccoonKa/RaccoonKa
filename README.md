@@ -8,7 +8,7 @@ Applied Mathematics & Computer Science student at **IKBFU** specializing in Arti
 
 ### 🚀 Featured Projects & Systems
 
-* 🌟 **[Astra Voice Assistant](https://github.com/RaccoonKa/Astra)** — Autonomous offline-first desktop assistant.
+* 🌟 **[Akira](https://github.com/RaccoonKa/Astra)** — Autonomous offline-first desktop assistant.
   * Local speech recognition via **Vosk** and neural voice synthesis via **Silero TTS**.
   * Computer Vision engine featuring **Face ID** owner verification, eye fatigue tracking, and gesture controls.
   * Integrated remote management via **Telegram Bot** and packaged into an **MSI installer (WiX Toolset)**.
